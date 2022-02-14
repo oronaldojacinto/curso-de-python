@@ -68,3 +68,60 @@ print('Que dia é hoje?')
 # mensagem = 'Eu adoro comida Caseira'
 # index.     0123456789
 # print(mensagem.find('C'))
+
+# Operadores de Comparação
+# 
+#       == Equal
+#       != Not equal
+#       >  Greater than
+#       <  Less than
+#       >= Greater than or equal to
+#       <= Less than or equal to
+
+# operadores = 'banana' == 'banana'
+# print(operadores)
+
+# Assignment operators -> Operadores de Atribuição
+# x = 10
+# x = x + 5
+# print(x)
+
+# Logical Operators ( Operadores Lógicos)
+#renda_acima_de5mil = False
+#nome_limpo = False
+
+# if renda_acima_de5mil or nome_limpo:
+#if renda_acima_de5mil and nome_limpo:
+#    print('Financiamento Aprovado')
+#else:
+#    print('Financiamento Negado')
+
+# Ternary Operator (Operador Ternário)
+
+#idade = 14
+
+#if idade >= 16:
+#    resultado = print('Voto Permitido')
+#else:
+#    resultado = print('Voto não Permitido')
+
+#resultado = 'Voto Permitido' if idade >= 16 else 'Voto não Permitido'
+#print(resultado)
+
+
+# Multiple Comparison Operators (Multiplos operadores de comparação)
+
+valor = 20
+
+if valor >= 20 and valor < 40:  # ou if 20 <= valor < 40:
+    print('Produdo foi Aceito')
+else:
+    print('Produto não Aceito')
+
+# For Loop - Utilizando números
+
+
+
+
+
+
